@@ -235,6 +235,10 @@
       "id": "security"
     },
     {
+      "title": "Productivity",
+      "id": "productivity"
+    },
+    {
       "title": "Password",
       "id": "password",
       "parent": "security"
@@ -32526,6 +32530,20 @@
       "license": "apache-2.0",
       "date_added": "Feb 6 2025",
       "suggested_by": "@th3m"
-    }     
+    },
+    {
+      "title": "Foqos",
+      "category-ids": [
+        "productivity"
+      ],
+      "source": "https://github.com/awaseem/foqos",
+      "itunes": "https://apps.apple.com/app/foqos/id6736793117",
+      "tags": [
+        "swiftui"
+      ],
+      "license": "mit",
+      "date_added": "Feb 8 2025",
+      "suggested_by": "@awaseem"
+    }
   ]
 }
